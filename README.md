@@ -1,6 +1,6 @@
 # wipe for go
 
-using reflect make alll field and sub struct value to default.
+using reflect make all field and sub struct value to default.
 
 ## get start:
 
